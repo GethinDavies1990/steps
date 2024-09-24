@@ -6,6 +6,11 @@ const messages = [
 ];
  */
 
+.button-container {
+  display: flex;
+  justify-content: space-between;
+}
+
 * {
   box-sizing: border-box;
 }
